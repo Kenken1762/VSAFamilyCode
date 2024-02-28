@@ -1,0 +1,42 @@
+FAM: 6
+Num Fem Identifying: 12
+Num Male Identifying: 12
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:2
+
+Freshman
+Matthew Pham(map7578)
+Khang Nguyen(khn479)
+Tony Lam(temp123)
+Jennifer Bejar(temp123)
+Jeremiah Palma(temp123)
+Tram Vuong(tdv486)
+Hannah Thach(hqt222)
+Madison Pham(Mp49773)
+Alana Thai(amt5452)
+Catalina Duong(cd37678)
+julia zhang(jqz64)
+
+Sophomore
+David Nguyen(dhn485)
+Selina Wu(se39748)
+Shawn Tran(sdt2272)
+Kyle Nguyen(KDN823)
+Skye Hwang(sh54926)
+Christina Tran(ct33585)
+Megan Le(mal6685)
+
+Junior
+Carson Nguyen(cpn443)
+Evelyn Nguyen(en6626)
+Andrew Nguyen(avn486)
+Calvin Nguyen(Cpn454)
+
+Senior
+Haily Vu(hnv278)
+tyler dao(tdd862)
+
+
+

@@ -1,0 +1,210 @@
+FAM: 1
+Num Fem Identifying: 13
+Num Male Identifying: 11
+FRESHMAN:11
+SOPHOMORE:6
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Name:Martin Nguyen(mtn2252)
+Pronouns: he/him/his
+Email: martinnguyent04@gmail.com
+Phone Number: (832)-297-6738
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: L
+
+Name:kathleen Nguyen(ktn888)
+Pronouns: she/her/hers
+Email: kngu1229@outlook.com
+Phone Number: 346-221-3744
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Alexander-Duy Vu(ahv398)
+Pronouns: he/him/his
+Email: alexduyvu729@gmail.com
+Phone Number: 713-534-2145
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Nam Sung(ns36593)
+Pronouns: he/him/his
+Email: nam.sung1021@gmail.com
+Phone Number: 713-437-9360
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Ocean Xie(oex55)
+Pronouns: he/him/his
+Email: oceanxie@utexas.edu
+Phone Number: (214)-972-8072
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Emmanuel Handisen(Eth676)
+Pronouns: he/him/his
+Email: Emmanuelhandisen@gmail.com
+Phone Number: (832)-616-1811
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Laura Dang(ld27825)
+Pronouns: she/her/hers
+Email: lauradang05@gmail.com
+Phone Number: (936)-330-6646
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Amber Nguyen(amn3676)
+Pronouns: she/her/hers
+Email: ambermaynguyen@gmail.com
+Phone Number: (281)-669-7425
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Tien Hoang(tmh3825)
+Pronouns: she/her/hers
+Email: tienh7657@gmail.com
+Phone Number: 940-704-4414
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Meagan Tran(nt9476)
+Pronouns: she/her/hers
+Email: meagantr@utexas.edu
+Phone Number: (972)-946-0717
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Lily Phan(llp2232)
+Pronouns: she/her/hers
+Email: lilyphan05@yahoo.com
+Phone Number: (281)798-1528
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+
+Sophomore
+Name:Jeremy Nguyen(jn28548)
+Pronouns: he/him/his
+Email: jn28548@utexas.edu
+Phone Number: (281)-728-2974
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:grace nguyen(gmn458)
+Pronouns: she/her/hers
+Email: nguyengrace@utexas.edu
+Phone Number: (817)-312-9614
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Justin Banh(jhb3274)
+Pronouns: he/him/his
+Email: justin.banh@utexas.edu
+Phone Number: (832)-573-5769
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: XL
+
+Name:Alana Koshikawa(ak45834)
+Pronouns: she/her/hers
+Email: alanakoshikawa@utexas.edu
+Phone Number: (281)-840-7435
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Teresa Do(tnd639)
+Pronouns: she/her/hers
+Email: teresado639@utexas.edu
+Phone Number: 254-316-3358
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Stephanie Nguyen(Svn368)
+Pronouns: she/her/hers
+Email: S.nguyen6734@gmail.com
+Phone Number: (346)-812-8182
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+
+Junior
+Name:Daniel Tran(Dkt554)
+Pronouns: he/him/his
+Email: Danieltran@utexas.edu
+Phone Number: 210-388-9638
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+Name:Christine Tran(Cht568)
+Pronouns: she/her/hers
+Email: Christine.tran.2003@gmail.com
+Phone Number: 214-714-5838
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Asilbek Norboev(an32225)
+Pronouns: he/him/his
+Email: asilbeknorboev@gmail.com
+Phone Number: (346)-775-0108
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Hieu Le(hml965)
+Pronouns: he/him/his
+Email: hieumle23@gmail.com
+Phone Number: 214-763-3013
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+
+Senior
+Name:Bryan Vu(bvv93)
+Pronouns: he/him/his
+Email: bryanvvu@utexas.edu
+Phone Number: (682)-227-9159
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Jenny Tran(jt43923)
+Pronouns: she/her/hers
+Email: jt43923@utexas.edu
+Phone Number: 713-562-7688
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+Name:An Nguyen(amn3373)
+Pronouns: she/her/hers
+Email: anguyen2020@utexas.edu
+Phone Number: (832)-917-4777
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+
+

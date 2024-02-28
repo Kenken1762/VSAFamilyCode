@@ -1,0 +1,218 @@
+FAM: 2
+Num Fem Identifying: 12
+Num Male Identifying: 13
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Name:Peter Do(pd22258)
+Pronouns: he/him/his
+Email: peterdo090417@gmail.com
+Phone Number: (979)-525-4806
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+Name:Haley Nguyen(hyn86)
+Pronouns: she/her/hers
+Email: haleyyngu@gmail.com
+Phone Number: (281)-853-5771
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Audrey Nguyen(atn2387)
+Pronouns: she/her/hers
+Email: officialnguyenaudrey@gmail.com
+Phone Number: 214-396-7692
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Philip Nguyen(pdn395)
+Pronouns: he/him/his
+Email: philipnguyen@utexas.edu
+Phone Number: (512)-541-9984
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: XL
+
+Name:Lucas Nguyen(lkn497)
+Pronouns: he/him/his
+Email: lucasngyouwhyen@gmail.com
+Phone Number: 682-552-6227
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: L
+
+Name:Duy Nguyen(dhn525)
+Pronouns: he/him/his
+Email: duyhnguyen@utexas.edu
+Phone Number: (832)-566-0755
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Tan Tang(ttt2598)
+Pronouns: he/him/his
+Email: tantha.tang@gmail.com
+Phone Number: (832)-868-9003
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Madison Tran(mtt2288)
+Pronouns: she/her/hers
+Email: madisontran433@gmail.com
+Phone Number: (214)-280-8163
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Jacqueline Nguyen(jpn833)
+Pronouns: she/her/hers
+Email: jacqu.nguyen@utexas.edu
+Phone Number: (111)-111-1111
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Lauren Ngo(Len646)
+Pronouns: she/her/hers
+Email: Laurenngo05@gmail.com
+Phone Number: 512-962-1944
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Emily Tran(ent535)
+Pronouns: she/her/hers
+Email: tlily4602@gmail.con
+Phone Number: 210-589-0206
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+
+Sophomore
+Name:Nathan Tran(nst529)
+Pronouns: he/him/his
+Email: nattradtx@utexas.edu
+Phone Number: 737-203-2509
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Dylan Tran(dqt232)
+Pronouns: he/him/his
+Email: dylantran@utexas.edu
+Phone Number: 469-951-1183
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Bryan Tye(Byt92)
+Pronouns: he/him/his
+Email: Bee.y.tye@gmail.com
+Phone Number: (512)-806-4682
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Kristina Tu(Knt897)
+Pronouns: she/her/hers
+Email: Kristinatu2114@gmail.com
+Phone Number: 713-548-4048
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Megan Chau(Mlc5744)
+Pronouns: she/her/hers
+Email: Meganlchau24@gmail.com
+Phone Number: (817)-914-5030
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Kathy Do(Kd28375)
+Pronouns: she/her/hers
+Email: kathy.do0419@gmail.com
+Phone Number: (214)-682-0739
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Nathalie Te(nat2267)
+Pronouns: she/her/hers
+Email: nathalieanne04@gmail.com
+Phone Number: 903-910-0673
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+Junior
+Name:Ben Huynh(Bh32399)
+Pronouns: he/him/his
+Email: Stevenhuynh0@gmail.com
+Phone Number: 346-252-9329
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Samuel Im(swi89)
+Pronouns: he/him/his
+Email: samueluc@utexas.edu
+Phone Number: 214-516-1584
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Duy Nguyen(dn8783)
+Pronouns: he/him/his
+Email: duy.nguyenn203@gmail.com
+Phone Number: (512)-299-6560
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Lily Nguyen(lmn934)
+Pronouns: she/her/hers
+Email: lilyminguyen@utexas.edu
+Phone Number: (832)-744-4272
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+
+Senior
+Name:Benjamin Ton-That(bbt426)
+Pronouns: he/him/his
+Email: benjamin.tonthat.1@utexas.edu
+Phone Number: (469)-974-7874
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Thomas Gougeon(trg2276)
+Pronouns: he/him/his
+Email: thom.gougeon@gmail.com
+Phone Number: (346)-270-4768
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: XL
+
+Name:Dianna Pham(dp33565)
+Pronouns: she/her/hers
+Email: diannapham472@gmail.com
+Phone Number: 214-609-5413
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+
+
+

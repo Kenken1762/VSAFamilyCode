@@ -1,0 +1,43 @@
+FAM: 8
+Num Fem Identifying: 12
+Num Male Identifying: 13
+FRESHMAN:10
+SOPHOMORE:8
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Vincent Ha(vdh378)
+Ngoc Nguyen(nbn378)
+Jason Hoang(jh78598)
+Dan Truong(dt27584)
+Quan Dau(mqd252)
+Jonathan Le(jql245)
+Caroline Quan(cmq287)
+Cynthia Tran(cnt796)
+Kelly Nguyen(kan2462)
+Y Le(ynl222)
+
+Sophomore
+Dung Do(dld3372)
+Nam Luong(nnl393)
+Anthony Truong(amt5277)
+Di Dao(Dbd738)
+Vyvy Tran(vt6376)
+Britney Bui(btb2427)
+Catherine Nguyen(Cmn2523)
+Kimberly La(kl36496)
+
+Junior
+Cang Nguyen(Ctn822)
+Kyle Le(kl35298)
+Brandon Nguyen(bhn362)
+Marcye Le(ml49576)
+
+Senior
+Michael Perez(mnp946)
+Ngoc Dao(ntd453)
+Kara Dam(kld3327)
+
+
+

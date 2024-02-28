@@ -1,0 +1,210 @@
+FAM: 6
+Num Fem Identifying: 12
+Num Male Identifying: 12
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:2
+
+Freshman
+Name:Matthew Pham(map7578)
+Pronouns: he/him/his
+Email: aragornpham@yahoo.com
+Phone Number: (832)-746-6047
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Khang Nguyen(khn479)
+Pronouns: he/him/his
+Email: khn479@utexas.edu
+Phone Number: (832)-542-6077
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Tony Lam(temp123)
+Pronouns: he/him/his
+Email: update@later.com
+Phone Number: (111)-111-1111
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: S
+
+Name:Jennifer Bejar(temp123)
+Pronouns: he/him/his
+Email: update@later.com
+Phone Number: (111)-111-1111
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: S
+
+Name:Jeremiah Palma(temp123)
+Pronouns: he/him/his
+Email: update@later.com
+Phone Number: (111)-111-1111
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: S
+
+Name:Tram Vuong(tdv486)
+Pronouns: she/her/hers
+Email: tramdvuong@utexas.edu
+Phone Number: (469)-222-2391
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Hannah Thach(hqt222)
+Pronouns: she/her/hers
+Email: hannahthach10@gmail.com
+Phone Number: (737)-802-7815
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Madison Pham(Mp49773)
+Pronouns: she/her/hers
+Email: Nhupham727@gmail.com
+Phone Number: (832)-210-4824
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: S
+
+Name:Alana Thai(amt5452)
+Pronouns: she/her/hers
+Email: alanathai04@utexas.edu
+Phone Number: 210-763-1847
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Catalina Duong(cd37678)
+Pronouns: she/her/hers
+Email: catduong0313@gmail.com
+Phone Number: 713-562-7266
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:julia zhang(jqz64)
+Pronouns: she/her/hers
+Email: juliazhang411@gmail.com
+Phone Number: (979)-888-8610
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+Sophomore
+Name:David Nguyen(dhn485)
+Pronouns: he/him/his
+Email: david14330@gmail.com
+Phone Number: 713-277-8794
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Selina Wu(se39748)
+Pronouns: she/her/hers
+Email: selinawu@utexas.edu
+Phone Number: 832-925-0533
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: L
+
+Name:Shawn Tran(sdt2272)
+Pronouns: he/him/his
+Email: STran7365@gmail.com
+Phone Number: (832)-474-0306
+Semester: Full Year
+Payment Type: Cash
+Shirt Size: M
+
+Name:Kyle Nguyen(KDN823)
+Pronouns: he/him/his
+Email: Kylenguyen0916@utexas.edu
+Phone Number: (832)-874-5484
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Skye Hwang(sh54926)
+Pronouns: she/her/hers
+Email: skyehwang@utexas.edu
+Phone Number: 714-418-3698
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Christina Tran(ct33585)
+Pronouns: she/her/hers
+Email: chtran0901@utexas.edu
+Phone Number: 832-830-3036
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Megan Le(mal6685)
+Pronouns: she/her/hers
+Email: meganle210@gmail.com
+Phone Number: (832)-928-6710
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+Junior
+Name:Carson Nguyen(cpn443)
+Pronouns: he/him/his
+Email: carson.nguyen174@gmail.com
+Phone Number: 346-493-0499
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Evelyn Nguyen(en6626)
+Pronouns: she/her/hers
+Email: evels@utexas.edu
+Phone Number: (469)-734-5644
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+Name:Andrew Nguyen(avn486)
+Pronouns: he/him/his
+Email: andrewvnguyen@utexas.edu
+Phone Number: 281-248-3908
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:Calvin Nguyen(Cpn454)
+Pronouns: he/him/his
+Email: Calvinpnguyen@utexas.edu
+Phone Number: (713)-732-8609
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+Senior
+Name:Haily Vu(hnv278)
+Pronouns: she/her/hers
+Email: hvu1@utexas.edu
+Phone Number: (850)-819-0927
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: M
+
+Name:tyler dao(tdd862)
+Pronouns: he/him/his
+Email: daotyler@utexas.edu
+Phone Number: (832)-260-5266
+Semester: Full Year
+Payment Type: Venmo
+Shirt Size: L
+
+
+
+

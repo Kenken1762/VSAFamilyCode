@@ -1,0 +1,42 @@
+FAM: 1
+Num Fem Identifying: 13
+Num Male Identifying: 11
+FRESHMAN:11
+SOPHOMORE:6
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Martin Nguyen(mtn2252)
+kathleen Nguyen(ktn888)
+Alexander-Duy Vu(ahv398)
+Nam Sung(ns36593)
+Ocean Xie(oex55)
+Emmanuel Handisen(Eth676)
+Laura Dang(ld27825)
+Amber Nguyen(amn3676)
+Tien Hoang(tmh3825)
+Meagan Tran(nt9476)
+Lily Phan(llp2232)
+
+Sophomore
+Jeremy Nguyen(jn28548)
+grace nguyen(gmn458)
+Justin Banh(jhb3274)
+Alana Koshikawa(ak45834)
+Teresa Do(tnd639)
+Stephanie Nguyen(Svn368)
+
+Junior
+Daniel Tran(Dkt554)
+Christine Tran(Cht568)
+Asilbek Norboev(an32225)
+Hieu Le(hml965)
+
+Senior
+Bryan Vu(bvv93)
+Jenny Tran(jt43923)
+An Nguyen(amn3373)
+
+
+

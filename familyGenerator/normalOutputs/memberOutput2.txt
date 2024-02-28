@@ -1,0 +1,43 @@
+FAM: 2
+Num Fem Identifying: 12
+Num Male Identifying: 13
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Peter Do(pd22258)
+Haley Nguyen(hyn86)
+Audrey Nguyen(atn2387)
+Philip Nguyen(pdn395)
+Lucas Nguyen(lkn497)
+Duy Nguyen(dhn525)
+Tan Tang(ttt2598)
+Madison Tran(mtt2288)
+Jacqueline Nguyen(jpn833)
+Lauren Ngo(Len646)
+Emily Tran(ent535)
+
+Sophomore
+Nathan Tran(nst529)
+Dylan Tran(dqt232)
+Bryan Tye(Byt92)
+Kristina Tu(Knt897)
+Megan Chau(Mlc5744)
+Kathy Do(Kd28375)
+Nathalie Te(nat2267)
+
+Junior
+Ben Huynh(Bh32399)
+Samuel Im(swi89)
+Duy Nguyen(dn8783)
+Lily Nguyen(lmn934)
+
+Senior
+Benjamin Ton-That(bbt426)
+Thomas Gougeon(trg2276)
+Dianna Pham(dp33565)
+
+
+

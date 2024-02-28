@@ -1,0 +1,43 @@
+FAM: 7
+Num Fem Identifying: 13
+Num Male Identifying: 12
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Nathan Le(npl389)
+Dominik Le(Dtl739)
+Brian Pham(bp26834)
+richard nguyen(rdn572)
+Boyang Liu(temp123)
+Vy Dam(vtd323)
+Gabby Hurbanis(gah2669)
+Trinity Nguyen(tn22393)
+Anna Vu(ahv393)
+Kathlyn Le(Kml4427)
+Vy Dinh(vd6832)
+
+Sophomore
+Kin Xia(Kx752)
+Nancy Nguyen(nn7875)
+Joshua Fagan(jrf3823)
+Tan Nguyen(tnn695)
+Linda Nguyen(Ltn777)
+Alysa Pham(ap59677)
+Meggie Do(mnd892)
+
+Junior
+Ryan chau(Rc49542)
+Donald Thai(dat3226)
+Lance Arbilo(lja899)
+Serena Dinh(sd44493)
+
+Senior
+Dylan Tran(dkt524)
+Emily Nguyen(enn299)
+Audrey Bong(Agb2976)
+
+
+

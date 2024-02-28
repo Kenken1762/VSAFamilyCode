@@ -1,0 +1,43 @@
+FAM: 4
+Num Fem Identifying: 13
+Num Male Identifying: 12
+FRESHMAN:11
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Lily Dang(lnd774)
+Larry Vo(lv9224)
+Skyler Nguyen(sn28523)
+Harrison Nguyen(hn6423)
+Franklin Nguyen(fhn97)
+Linh Doan(ld26838)
+Annie Vu(alv2586)
+trinisha nguyen(tn9598)
+Leilani Nguyen(Lhn477)
+Sophie Vuong(syv99)
+Yohana Vasquez(yp5943)
+
+Sophomore
+Andrew Hurbanis(arh4842)
+Sunnel Kim(sk55777)
+Nina Nguyen(ngn266)
+Daniel Naval(dsn488)
+Lam Mai(ltm764)
+Natalie Nuamnumnuan(nn8656)
+Katherine Tran(kat3657)
+
+Junior
+Henry Huynh(adh3964)
+Andrew Dang(Ald3935)
+Hao Le(hal825)
+Audrey Nguyen(atn2257)
+
+Senior
+Valerie Le(vtl286)
+Phillip Nguyen(ppn256)
+Kai Dao(fnd98)
+
+
+

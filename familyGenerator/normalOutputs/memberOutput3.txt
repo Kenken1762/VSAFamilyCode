@@ -1,0 +1,42 @@
+FAM: 3
+Num Fem Identifying: 12
+Num Male Identifying: 12
+FRESHMAN:10
+SOPHOMORE:7
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Daniel Le(Dl35639)
+Theresa Ton(tt26827)
+Tyler Vu(tv5957)
+Binh Nguyen(Ban858)
+Anthony Le(al56926)
+Thai-Hien Tran(tbt572)
+Grace Phi(gp23268)
+Chan Nguyen(ckn455)
+Huong (Linda) Nguyen(hn6485)
+Emily foster(ecf828)
+
+Sophomore
+Kimberly Nguyen(kkn528)
+Jacob Trinh(jht885)
+Kevin Taing(kt26746)
+Kevin Le(kl35935)
+Tina Dang(tnd649)
+Han Nguyen(hnn447)
+Maya Lee(mvl475)
+
+Junior
+David Luo(HL28857)
+Mandy Nguyen(Mtn944)
+Moctezuma Perez(mep3786)
+Adam To(Ant2672)
+
+Senior
+David Liu(ddl973)
+Victoria Vo(vhv245)
+Deda Nguyen(dn8574)
+
+
+

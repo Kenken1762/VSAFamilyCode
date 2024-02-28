@@ -1,0 +1,43 @@
+FAM: 5
+Num Fem Identifying: 13
+Num Male Identifying: 12
+FRESHMAN:10
+SOPHOMORE:8
+JUNIOR:4
+(SUPER)SENIOR:3
+
+Freshman
+Tammy Pham(tp25739)
+Avis Luong(atl2389)
+Hai Su(hps535)
+Eugene Kim(elk799)
+Hugh Vo(hnv324)
+Tien Pham(tp24986)
+Natalie Nguyen(Ntn745)
+San Tran(stt742)
+America Benitez(ab79843)
+Han-Anh Vu(hnv327)
+
+Sophomore
+Justin Thai(jtt2525)
+Annie Le(ahl932)
+Cody Nguyen(ccn662)
+Simon Nguyen(sn27725)
+Meghan Nguyen(htn939)
+Leilani Tran(LTT555)
+Jasmine Nguyen(Jtn2382)
+Alanna Phung(ahp799)
+
+Junior
+Matthew Taing(mjt2899)
+Teresa Phan(tp24847)
+Khang Le(kml3566)
+jim duong(jnd2356)
+
+Senior
+Tommy Dao(ttd624)
+Linda Lam(tml2532)
+Annie Le(Al48454)
+
+
+
